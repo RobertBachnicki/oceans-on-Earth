@@ -1,2 +1,2 @@
 # oceans-on-Earth
-# credentials for login: rob, szubin76
+#credentials for login: rob, szubin76
